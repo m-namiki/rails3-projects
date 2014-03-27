@@ -14,3 +14,5 @@ Opening ancient-waters-9458... failed
     Version:     heroku-toolbelt/3.6.0 (x86_64-linux) ruby/1.9.3
 
 心が折れたので次に進んでしまおう。
+
+2.3.3までやった。
